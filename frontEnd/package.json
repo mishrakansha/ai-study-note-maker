@@ -1,0 +1,14 @@
+{
+  "name": "frontend-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-dom": "18.2.0",
+    "@testing-library/react": "latest",
+    "@testing-library/jest-dom": "latest",
+    "jest": "latest",
+    "react-redux": "9.1.2",
+    "@reduxjs/toolkit": "2.2.3",
+    "axios": "latest",
+    "react": "18.2.0"
+  }
+}
